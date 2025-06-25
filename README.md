@@ -41,3 +41,9 @@ Visit `http://127.0.0.1:8000` to access the app.
 - Python 3.11+
 - Django 5.2+
 - HTML, CSS (Bootstrap)
+
+OR just:
+Create a virtual environment:
+  python -m venv venv
+  
+pip install -r requirements.txt
